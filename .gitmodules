@@ -1,0 +1,3 @@
+[submodule "hugo-eureka"]
+	path = hugo-eureka
+	url = git@github.com:wangchucheng/hugo-eureka.git
