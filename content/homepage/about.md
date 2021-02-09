@@ -1,9 +1,9 @@
 ---
 title: Maximilian Frühauf
 draft: false
-role: Student
+role: Master's Student
 avatar: images/profile.jpg
-bio: I'm a Computer Science student @TUM, always on the lookout for cool stuff to work on. :wq!
+bio: I'm a Robotics student @TUM, working on autonomous vehicles on the side. Always on the lookout for cool stuff to work on. :wq!
 organization:
   name: TU Munich, I6
   url: https://www.in.tum.de/en/i06/home/
@@ -18,7 +18,7 @@ social:
     iconPack: fab
     url: https://twitter.com/FruehaufMax
 
-weight:
+weight: 1
 widget:
   handler: about
 
@@ -45,4 +45,8 @@ widget:
 
 ## Self-Introduction
 
-Test
+Currently, my main focus is theoretical concepts in the space of autonomous vehicles, 
+which I am working on at [I6 @ TUM](https://www.in.tum.de/en/i06/home/).
+
+In the past I've done some teaching for Tutorials at TUM and HdM and worked on 3D Rendering in the advertising industry.
+If you're interested to learn more, hit me up via [Email](mailto:max@maxfruehauf.com).
