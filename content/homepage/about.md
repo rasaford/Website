@@ -1,7 +1,7 @@
 ---
 title: Maximilian Frühauf
 draft: false
-role: Master's Student
+role: Student
 avatar: images/profile.jpg
 bio: I'm a Robotics student @TUM, working on autonomous vehicles on the side. Always on the lookout for cool stuff to work on. :wq!
 organization:
