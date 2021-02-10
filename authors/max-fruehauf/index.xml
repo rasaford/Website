@@ -5,6 +5,18 @@
     <link>https://maxfruehauf.com/authors/max-fruehauf/</link>
     <description>Recent content on Max Fruehauf</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://maxfruehauf.com/authors/max-fruehauf/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Max Fruehauf 
+</copyright>
+    <lastBuildDate>Tue, 09 Feb 2021 19:29:41 +0100</lastBuildDate><atom:link href="https://maxfruehauf.com/authors/max-fruehauf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traffic Scenario Synthesis from Temporal Logic Constraints</title>
+      <link>https://maxfruehauf.com/posts/senario-generation/</link>
+      <pubDate>Tue, 09 Feb 2021 19:29:41 +0100</pubDate>
+      
+      <guid>https://maxfruehauf.com/posts/senario-generation/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

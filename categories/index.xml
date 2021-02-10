@@ -5,6 +5,8 @@
     <link>https://maxfruehauf.com/categories/</link>
     <description>Recent content in Categories on Max Fruehauf</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://maxfruehauf.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>&amp;copy; 2021 Max Fruehauf 
+</copyright><atom:link href="https://maxfruehauf.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
