@@ -11,11 +11,11 @@ dateFormat:
 titleSeparator:
 
 # Options: auto, light and dark. Default is auto.
-colorScheme: auto
+colorScheme: dark
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType: Person
-icon: images/robot.png
+icon: images/favicon-transparent-32.png
 publisherName: Max Fruehauf
 publisherLogo:
 

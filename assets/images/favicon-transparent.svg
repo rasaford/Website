@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="hat-wizard"
+   class="svg-inline--fa fa-hat-wizard fa-w-16"
+   role="img"
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="hat-wizard-transparent.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   width="500"
+   height="500">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1944"
+     inkscape:window-height="1413"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.82826456"
+     inkscape:cx="6.3984286"
+     inkscape:cy="402.87488"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4"
+     inkscape:document-rotation="0" />
+  <path
+     fill="currentColor"
+     d="M 437.5,400 H 62.499999 C 55.59375,400 50,405.59374 50,412.49999 v 25 C 50,444.40624 55.59375,450 62.499999,450 H 437.5 c 6.90625,0 12.5,-5.59376 12.5,-12.50001 v -25 C 450,405.59374 444.40625,400 437.5,400 Z M 200,350.00001 150,325 200,300 225.00001,250 250,300 300.00001,325 250,350.00001 237.50002,375 H 400.00001 L 332.49219,217.47656 a 49.964843,49.964842 0 0 1 -1.47657,-35.5078 L 375,50.000001 228.45312,133.7422 a 99.991407,99.991407 0 0 0 -41.76561,46.21093 L 99.999999,375 H 212.5 Z M 250,175 262.5,150.00002 274.99999,175 300.00001,187.5 274.99999,200 262.5,225.00001 250,200 225.00001,187.5 Z"
+     id="path2"
+     style="fill:#d91604;fill-opacity:1;stroke-width:0.781251" />
+</svg>

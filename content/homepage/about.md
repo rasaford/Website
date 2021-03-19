@@ -17,6 +17,9 @@ social:
   - icon: twitter
     iconPack: fab
     url: https://twitter.com/FruehaufMax
+  - icon: medium
+    iconPack: fab
+    url: https://medium.com/@rasaford
 
 weight: 1
 widget:
