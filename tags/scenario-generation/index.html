@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang='en' ><meta charset="utf-8">
+<html lang='en' class="dark" ><meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 
 
@@ -49,8 +49,8 @@
 </script>
 
 
-<link rel="icon" type="image/png" sizes="32x32" href="https://maxfruehauf.com/images/robot_hu5b645f71b074e7b229aefd72398a717a_18662_32x32_fill_box_center_2.png">
-<link rel="apple-touch-icon" sizes="180x180" href="https://maxfruehauf.com/images/robot_hu5b645f71b074e7b229aefd72398a717a_18662_180x180_fill_box_center_2.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://maxfruehauf.com/images/favicon-transparent-32_hu6559a89be28ebebc0cf390161acc537d_1140_32x32_fill_box_center_2.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://maxfruehauf.com/images/favicon-transparent-32_hu6559a89be28ebebc0cf390161acc537d_1140_180x180_fill_box_center_2.png">
 
 <meta name="description"
   content="Max Fruehauf&#39;s personal website on life and exploits.">
@@ -90,7 +90,7 @@
 <meta property="og:type" content="website" />
 
 
-<meta property="og:image" content="https://maxfruehauf.com/images/robot.png">
+<meta property="og:image" content="https://maxfruehauf.com/images/favicon-transparent-32.png">
 
 
 <meta property="og:url" content="https://maxfruehauf.com/tags/scenario-generation/" />
@@ -130,8 +130,8 @@
   <header class="fixed flex items-center w-full min-h-16 pl-scrollbar z-50 bg-secondary-bg shadow-sm">
     <div class="w-full max-w-screen-xl mx-auto"><script>
     let storageColorScheme = localStorage.getItem("lightDarkMode")
-    if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
-        document.getElementsByTagName('html')[0].classList.add('dark')
+    if ((storageColorScheme == 'Auto' && window.matchMedia("(prefers-color-scheme: light)").matches) || storageColorScheme == "Light") {
+        document.getElementsByTagName('html')[0].classList.remove('dark')
     }
 </script>
 <nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
@@ -151,7 +151,7 @@
         <div class="flex">
             <div class="relative pt-4 md:pt-0">
                 <div class="cursor-pointer hover:text-eureka" id="lightDarkMode">
-                    <i class="fas fa-adjust"></i>
+                    <i class="fas fa-moon"></i>
                 </div>
                 <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open">
                 </div>
@@ -171,18 +171,17 @@
 </nav>
 <script>
     let element = document.getElementById('lightDarkMode')
-    if (storageColorScheme == null || storageColorScheme == 'Auto') {
+    if (storageColorScheme == 'Auto') {
+        element.firstElementChild.classList.remove('fa-moon')
+        element.firstElementChild.setAttribute("data-icon", 'adjust')
+        element.firstElementChild.classList.add('fa-adjust')
         document.addEventListener('DOMContentLoaded', () => {
             switchMode('Auto')
         })
     } else if (storageColorScheme == "Light") {
-        element.firstElementChild.classList.remove('fa-adjust')
+        element.firstElementChild.classList.remove('fa-moon')
         element.firstElementChild.setAttribute("data-icon", 'sun')
         element.firstElementChild.classList.add('fa-sun')
-    } else if (storageColorScheme == "Dark") {
-        element.firstElementChild.classList.remove('fa-adjust')
-        element.firstElementChild.setAttribute("data-icon", 'moon')
-        element.firstElementChild.classList.add('fa-moon')
     }
     
     document.addEventListener('DOMContentLoaded', () => {
@@ -248,7 +247,7 @@
   <footer class="pl-scrollbar">
     <div class="w-full max-w-screen-xl mx-auto"><div class="text-center p-6 pin-b">
     <p class="text-sm text-tertiary-text">&copy; 2021 Max Fruehauf 
- &middot;  Powered by the <a href="https://github.com/wangchucheng/hugo-eureka" class="hover:text-eureka">Eureka</a> theme for <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a></p>
+ &middot;  Powered by the <a href="https://github.com/wangchucheng/hugo-eureka" class="hover:text-eureka">Eureka</a> theme for <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a>, icons by <a href="https://fontawesome.com">FontAwesome</a></p>
 </div></div>
   </footer>
 </body>
