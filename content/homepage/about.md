@@ -1,12 +1,12 @@
 ---
-title: Maximilian Frühauf
+title: Max Fruehauf
 draft: false
-role: Student
+role: Master Student
 avatar: images/profile.jpg
-bio: I'm a Robotics student @TUM, working on autonomous vehicles on the side. Always on the lookout for cool stuff to work on. :wq!
+bio: I'm a robotics student at ETH trying to make robots a little better every day. Always on the lookout for cool stuff to work on. :wq!
 organization:
-  name: TU Munich, I6
-  url: https://www.in.tum.de/en/i06/home/
+  name: ETH Zürich
+  url: https://ethz.ch/en.html
 social:
   - icon: envelope
     iconPack: fas
@@ -48,8 +48,10 @@ widget:
 
 ## Self-Introduction
 
-Currently, my main focus is theoretical concepts in the space of autonomous vehicles, 
-which I am working on at [I6 @ TUM](https://www.in.tum.de/en/i06/home/).
+Currently I'm doing my Master's degree in Robotics at ETH Zurich where I'm focussing on robot navigation and planning for autonomous systems. 
 
-In the past I've done some teaching for Tutorials at TUM and HdM and worked on 3D Rendering in the advertising industry.
+In the past, I've worked on motion planning for autonomous vehicles at
+[I6 @ TUM](https://www.in.tum.de/en/i06/home/) and did my Bachelor's thesis there. 
+You can check it out [here]({{< ref "/posts/senario-generation.md" >}} "Scenario Generation").
+Additionally, I've tutored students at both TUM and HdM and worked on 3D Rendering in the advertising industry.
 If you're interested to learn more, hit me up via [Email](mailto:max@maxfruehauf.com).
