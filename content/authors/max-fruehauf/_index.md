@@ -3,10 +3,10 @@
 title: Max Fruehauf
 role: Master's Student
 avatar: images/profile.jpg
-bio: I'm a Robotics student @TUM, working on autonomous vehicles on the side. Always on the lookout for cool stuff to work on. :wq!
+bio: I'm a Robotics student at ETH trying to make robots a little better every day. Always on the lookout for cool stuff to work on. :wq!
 organization:
-  name: TU Munich, I6
-  url: https://www.in.tum.de/en/i06/home/
+  name: ETH Zurich
+  url: https://ethz.ch/en.html
 social:
   - icon: envelope
     iconPack: fas
