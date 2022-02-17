@@ -10,6 +10,7 @@ tags:
     - Linear Temporal Logic
 categories:
 series:
-date: 2021-02-09T19:29:41+01:00
+date: 2022-02-17T14:52:08+01:00
 draft: false
 ---
+

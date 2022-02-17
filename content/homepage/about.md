@@ -52,6 +52,6 @@ Currently I'm doing my Master's degree in Robotics at ETH Zurich where I'm focus
 
 In the past, I've worked on motion planning for autonomous vehicles at
 [I6 @ TUM](https://www.in.tum.de/en/i06/home/) and did my Bachelor's thesis there. 
-You can check it out [here]({{< ref "/posts/senario-generation.md" >}} "Scenario Generation").
+You can check it out [here]({{< ref "/posts/scenario-generation.md" >}} "Scenario Generation").
 Additionally, I've tutored students at both TUM and HdM and worked on 3D Rendering in the advertising industry.
 If you're interested to learn more, hit me up via [Email](mailto:max@maxfruehauf.com).
