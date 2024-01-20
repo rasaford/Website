@@ -34,10 +34,16 @@ Bachelor's Thesis at the Chair for Cyber Physical Systems @ <a href="https://tum
 ____
 
 ### Personal Projects
+
+{{< paper   title="Long-distance Relationship Light"
+            video="projects/liebhab/liebhab"
+            link="https://github.com/rasaford/liebhab"
+>}}
+{{< /paper >}}
+
 {{< paper   title="Texture-Domintant Mapping for Robotic Telepresence"
             image="projects/nvblox2022/nvblox_tex.png"
             link="https://github.com/rasaford/nvblox_tex"
-            authors=" <a href='.'>Maximilian Frühauf</a>"
 >}}
 {{< /paper >}}
 
