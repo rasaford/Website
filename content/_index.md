@@ -39,10 +39,10 @@ ____
             video="projects/liebhab/liebhab"
             link="https://github.com/rasaford/liebhab"
 >}}
-Smart light making long distance relationships that tiny bit more fun.
+Smart light making long-distance relationships that tiny bit more fun.
 {{< /paper >}}
 
-{{< paper   title="Texture-Domintant Mapping for Robotic Telepresence"
+{{< paper   title="Texture-Dominant Mapping for Robotic Telepresence"
             image="projects/nvblox2022/nvblox_tex.png"
             link="https://github.com/rasaford/nvblox_tex"
 >}}
