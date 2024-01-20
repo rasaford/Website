@@ -4,9 +4,13 @@ draft: false
 ---
 
 
-Currently I'm doing my Master's degree in Robotics at [ETH Zurich](https://ethz.ch) where I'm focussing on robot navigation and planning for autonomous systems.
+Hey there, I'm Max and love chatting about all things Computer Vision, Graphics and generally all things Computer Science 💻!
 
-In the past, I've worked on motion planning for autonomous vehicles at I6@TUM and did my Bachelor's thesis there. You can check it out here. Additionally, I've tutored students at both TUM and HdM and worked on 3D Rendering in the advertising industry. If you're interested to learn more, hit me up via Email.
+I'm currently interning at [DisneyResearch|Studios](https://studios.disneyresearch.com/) in Zürich working on movie magic using computer vision.
+During my Master's Degree in Robotics at [ETH Zurich](https://ethz.ch) I did my thesis on extracting pixel-level details with artist friendly meshes from images.
+Before that, I did my undergraduate degree in Computer Science at [TUM](https://tum.de), where I worked on motion planning for autonomous vehicles.
+
+Additionally, I've tutored students in various lectures, worked on 3D rendering in the advertising industry, and am an [avid road cyclist](fun/cycling.jpg)
 
 ____
 
@@ -14,11 +18,9 @@ ____
 
 {{< paper   title="Extracting Well-behaved Quad Models, Materials, and Lighting from Images"
             image="publications/fruehauf2023/thumb.jpg"
-            link="publications/fruehauf2023/thesis-small.pdf"
             authors="<a href='.'>Maximilian Frühauf</a>"
 >}}
-Can we do html pages here <a href="https://google.com"> test </a>
-Can we do html pages here <a href="https://google.com"> test </a>
+Master's Thesis at <a href="https://studios.disneyresearch.com">DisneyResearch|Studios</a>
 {{< /paper >}}
 
 {{< paper   title="Scenario Generation from Temporal Logic Constraints"
@@ -32,6 +34,12 @@ Bachelor's Thesis at the Chair for Cyber Physical Systems @ <a href="https://tum
 ____
 
 ### Personal Projects
+{{< paper   title="Texture-Domintant Mapping for Robotic Telepresence"
+            image="projects/nvblox2022/nvblox_tex.png"
+            link="https://github.com/rasaford/nvblox_tex"
+            authors=" <a href='.'>Maximilian Frühauf</a>"
+>}}
+{{< /paper >}}
 
 {{< paper   title="Interactive Mandelbrot Visualization"
             image="projects/mandelbrot/ui.jpg"
