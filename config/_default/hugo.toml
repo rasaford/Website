@@ -1,9 +1,9 @@
 baseURL = 'http://maxfruehauf.com/'
-copyright = "{2024}"                # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
+copyright = "2024"                # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
 languageCode = 'en-US'
 defaultContentLanguage = 'en'
 theme = 'lowkey'
-title = 'Max Fruehauf'
+title = 'Maximilian Frühauf'
 enableRobotsTXT = true
 summaryLength = 15
 paginate = 5

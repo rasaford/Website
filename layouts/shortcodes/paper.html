@@ -1,10 +1,19 @@
-<div class="flex flex-row py-2">
-    <img class="mx-2" style="max-height:5em; margin-right: 1em;"
-        src="https://www.zug-tourismus.ch/_next/image?url=https%3A%2F%2Fdata.zug-tourismus.ch%2Fstyles%2F16_9%2Fs3%2Fimport%2Fpoi%2F2022%2Fdanuser-160307104228-4-bearb-1%2F640b42c6-b2ed-48cd-a6b5-6d6e6f917ad4.jpeg%3Fh%3D10d202d3%26itok%3Dry9KTl49&w=3840&q=75">
-    <div>
+<div class="flex flex-row py-2 items-begin">
+    <div id="paper-img">
+        <a href="{{ .Get `link` }}">
+            <img id="paper-img" src="{{ .Get `image` }}">
+        </a>
+    </div>
+    <div class="py-4">
         <div>
-            <h4 class="my-0" style="margin-bottom: 0px;"> {{ .Get "title" }} </h4>
-            <small> {{ .Get "where" }} </small>
+            <h4 class="my-0" style="margin-bottom: 0px;">
+                <a href="{{ .Get `link` }}">
+                    {{ .Get "title" }}
+                </a>
+            </h4>
+            <div class="flex flex-row">
+                <small> {{ .Get "authors" | safeHTML }} </small>
+            </div>
         </div>
         <p>
             {{ .Inner }}

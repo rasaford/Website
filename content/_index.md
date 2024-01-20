@@ -12,35 +12,31 @@ ____
 
 ### Latest Work
 
-{{< paper   title="QUADify"
-            text="this is the body text" where="Master's Thesis"
+{{< paper   title="Extracting Well-behaved Quad Models, Materials, and Lighting from Images"
+            image="publications/fruehauf2023/thumb.jpg"
+            link="publications/fruehauf2023/thesis-small.pdf"
+            authors="<a href='.'>Maximilian Frühauf</a>"
 >}}
 Can we do html pages here <a href="https://google.com"> test </a>
 Can we do html pages here <a href="https://google.com"> test </a>
-Can we do html pages here <a href="https://google.com"> test </a>
-Can we do html pages here <a href="https://google.com"> test </a>
-Can we do html pages here <a href="https://google.com"> test </a>
-
-**bold text**
 {{< /paper >}}
 
-{{< paper title="Scenario Generation using Temporal Logic Constraints" where="Bachelor's Thesis">}}
-Can we do html pages here <a href="https://google.com"> test </a>
-Can we do html pages here <a href="https://google.com"> test </a>
-Can we do html pages here <a href="https://google.com"> test </a>
-Can we do html pages here <a href="https://google.com"> test </a>
-Can we do html pages here <a href="https://google.com"> test </a>
-
-**bold text**
+{{< paper   title="Scenario Generation from Temporal Logic Constraints"
+            image="publications/fruehauf2021/thumb.jpg"
+            link="publications/fruehauf2021/ba_thesis.pdf"
+            authors=" <a href='.'>Maximilian Frühauf</a>"
+>}}
+Bachelor's Thesis at the Chair for Cyber Physical Systems @ <a href="https://tum.de">TUM</a>.
 {{< /paper >}}
 
 ____
 
-### Awards
+### Personal Projects
 
-- Best tutor TUM
-- Deutschlandstipendium 2018 & 2019
-
-____
-
-### Datasets
+{{< paper   title="Interactive Mandelbrot Visualization"
+            image="projects/mandelbrot/ui.jpg"
+            link="https://github.com/eragp/mandelbrot"
+            authors=" <a href='.'>Maximilian Frühauf</a>, <a href='https://nielstron.de/'>Niels Mündler</a>, <a href='https://www.ce.cit.tum.de/cps/members/florian-lercher-msc/'>Florian Lercher</a>, Tobias Klausen"
+>}}
+Mandelbrot was developed during a two semester Project at the CAPS chair of TUM. It shows the possible speedup which can be achieved by parallelization on a cluster of independent compute nodes.
+{{< /paper >}}
