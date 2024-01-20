@@ -1,1 +1,7 @@
 User-agent: *
+
+Disallow: /categories/
+
+Disallow: /
+
+Disallow: /tags/
