@@ -1,3 +1,6 @@
 [submodule "hugo-eureka"]
 	path = hugo-eureka
 	url = git@github.com:wangchucheng/hugo-eureka.git
+[submodule "themes/lowkey"]
+	path = themes/lowkey
+	url = https://github.com/nixentric/Lowkey-Hugo-Theme.git

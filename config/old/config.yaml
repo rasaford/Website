@@ -8,7 +8,7 @@ theme: eureka
 
 paginate: 3
 copyright: >
-  &copy; 2021 Max Fruehauf 
+  &copy; 2022 Max Fruehauf 
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
