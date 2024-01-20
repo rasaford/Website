@@ -2,38 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maxfruehauf.com/authors/</loc>
-    <lastmod>2022-02-17T14:52:08+01:00</lastmod>
+    <loc>http://maxfruehauf.com/categories/</loc>
   </url><url>
-    <loc>https://maxfruehauf.com/tags/autonomous-vehicles/</loc>
-    <lastmod>2022-02-17T14:52:08+01:00</lastmod>
+    <loc>http://maxfruehauf.com/</loc>
   </url><url>
-    <loc>https://maxfruehauf.com/tags/linear-temporal-logic/</loc>
-    <lastmod>2022-02-17T14:52:08+01:00</lastmod>
-  </url><url>
-    <loc>https://maxfruehauf.com/</loc>
-    <lastmod>2022-02-17T14:52:08+01:00</lastmod>
-  </url><url>
-    <loc>https://maxfruehauf.com/authors/max-fruehauf/</loc>
-    <lastmod>2022-02-17T14:52:08+01:00</lastmod>
-  </url><url>
-    <loc>https://maxfruehauf.com/posts/</loc>
-    <lastmod>2022-02-17T14:52:08+01:00</lastmod>
-  </url><url>
-    <loc>https://maxfruehauf.com/tags/scenario-generation/</loc>
-    <lastmod>2022-02-17T14:52:08+01:00</lastmod>
-  </url><url>
-    <loc>https://maxfruehauf.com/tags/</loc>
-    <lastmod>2022-02-17T14:52:08+01:00</lastmod>
-  </url><url>
-    <loc>https://maxfruehauf.com/posts/scenario-generation/</loc>
-    <lastmod>2022-02-17T14:52:08+01:00</lastmod>
-  </url><url>
-    <loc>https://maxfruehauf.com/homepage/</loc>
-    <lastmod>2021-02-02T15:50:40+01:00</lastmod>
-  </url><url>
-    <loc>https://maxfruehauf.com/categories/</loc>
-  </url><url>
-    <loc>https://maxfruehauf.com/series/</loc>
+    <loc>http://maxfruehauf.com/tags/</loc>
   </url>
 </urlset>
