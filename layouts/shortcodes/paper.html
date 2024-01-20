@@ -1,12 +1,12 @@
-<div class="flex flex-row py-2 items-begin">
+<div id="paper">
     <div id="paper-img">
         <a href="{{ .Get `link` }}">
             <img id="paper-img" src="{{ .Get `image` }}">
         </a>
     </div>
-    <div class="py-4">
+    <div id="paper-text">
         <div>
-            <h4 class="my-0" style="margin-bottom: 0px;">
+            <h4 class="my-0" style="padding: 0px; margin-bottom: 0.5rem;">
                 <a href="{{ .Get `link` }}">
                     {{ .Get "title" }}
                 </a>
