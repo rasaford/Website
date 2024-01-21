@@ -17,7 +17,7 @@ ____
 ### Latest Work
 
 {{< paper   title="Extracting Well-behaved Quad Models, Materials, and Lighting from Images"
-            image="publications/fruehauf2023/thumb.jpg"
+            video="publications/fruehauf2023/qmesh"
             authors="<a href='.'>Maximilian Frühauf</a>"
 >}}
 Master's Thesis at <a href="https://studios.disneyresearch.com">DisneyResearch|Studios</a>
