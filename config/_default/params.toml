@@ -5,7 +5,7 @@ isSinglePage = true
 description = "Hey there, I'm Max and love chatting about all things Computer Vision, Graphics and generally all things Computer Science 💻!"
 
 # Header Configuration
-avatar = "images/profile.jpg"
+avatar = "images/profile_2.jpg"
 
 # disqus is a comment system. see https://disqus.com
 disqusShortname = ""
