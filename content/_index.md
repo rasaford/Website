@@ -23,7 +23,14 @@ ____
 Master's Thesis at <a href="https://studios.disneyresearch.com">DisneyResearch|Studios</a>
 {{< /paper >}}
 
-{{< paper   title="Scenario Generation from Temporal Logic Constraints"
+{{< paper   title="Texture-Dominant Mapping for Robotic Telepresence"
+            image="projects/nvblox2022/nvblox_tex.png"
+            link="https://github.com/rasaford/nvblox_tex"
+>}}
+Texel based mapping on the GPU!
+{{< /paper >}}
+
+{{< paper   title="Traffic Scenario Synthesis from Temporal Logic Constraints"
             image="publications/fruehauf2021/thumb.jpg"
             link="publications/fruehauf2021/ba_thesis.pdf"
             authors=" <a href='.'>Maximilian Frühauf</a>"
@@ -33,20 +40,16 @@ Bachelor's Thesis at the Chair for Cyber Physical Systems @ <a href="https://tum
 
 ____
 
-### Personal Projects
+###  Fun Projects
 
-{{< paper   title="Long-distance Relationship Light"
+{{< paper   title="Love Light"
             video="projects/liebhab/liebhab"
             link="https://github.com/rasaford/liebhab"
 >}}
-Smart light making long-distance relationships that tiny bit more fun.
+Smart light allowing to people to connect by sending each other pulses of light.
+Comes with a very pink web UI 🩷.
 {{< /paper >}}
 
-{{< paper   title="Texture-Dominant Mapping for Robotic Telepresence"
-            image="projects/nvblox2022/nvblox_tex.png"
-            link="https://github.com/rasaford/nvblox_tex"
->}}
-{{< /paper >}}
 
 {{< paper   title="Interactive Mandelbrot Visualization"
             image="projects/mandelbrot/ui.jpg"
