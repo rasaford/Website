@@ -8,7 +8,7 @@ weight = 1
 
 [[main]]
 identifier = "cv"
-name = "Résumé"
+name = "Resume"
 url = "/cv/max_cv.pdf"
 weight = 5
 
@@ -33,6 +33,6 @@ weight = 4
 
 [[main]]
 identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com/FruehaufMax"
+name = "X"
+url = "https://x.com/FruehaufMax"
 weight = 4

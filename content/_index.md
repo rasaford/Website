@@ -16,11 +16,23 @@ ____
 
 ### Latest Work
 
-{{< paper   title="Extracting Well-behaved Quad Models, Materials, and Lighting from Images"
-            video="publications/fruehauf2023/qmesh"
-            authors="<a href='.'>Maximilian Frühauf</a>"
+{{< paper   title="QUADify: Extracting Meshes with Pixel-level Details and Materials from Images"
+            video="publications/fruehauf2024quadify/quadify"
+            link="publications/fruehauf2024quadify/fruehauf2024quadify.pdf"
+            authors="<a href='.'>Maximilian Frühauf</a>, <a href='https://studios.disneyresearch.com/people/hayko-riemenschneider/'>Hayko Riemenschneider</a>, <a href='https://cgl.ethz.ch/people/grossm/'>Markus Gross</a>, <a href='https://studios.disneyresearch.com/people/christopher-schroers/'>Christopher Schroers</a>"
+
 >}}
-Master's Thesis at <a href="https://studios.disneyresearch.com">DisneyResearch|Studios</a>
+
+<small>
+<a href="https://cvpr.thecvf.com/virtual/2024/poster/30511">CVPR, Jun 2024</a> <br/>
+<strong>🏆 Highlight Poster</strong>
+</small>
+<div style="margin-top:10px;">
+    {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify.pdf" text="📄 Paper" >}}
+    {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify-supp.pdf" text="📄 Supplementary" >}}
+    {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify.bib" text="🎓 BibTex" >}}
+</div>
+<!-- Master's Thesis at <a href="https://studios.disneyresearch.com">DisneyResearch|Studios</a> -->
 {{< /paper >}}
 
 {{< paper   title="Texture-Dominant Mapping for Robotic Telepresence"
@@ -40,7 +52,7 @@ Bachelor's Thesis at the Chair for Cyber Physical Systems @ <a href="https://tum
 
 ____
 
-###  Fun Projects
+### Fun Stuff
 
 {{< paper   title="Love Light"
             video="projects/liebhab/liebhab"

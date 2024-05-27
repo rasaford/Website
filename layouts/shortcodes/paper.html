@@ -7,8 +7,8 @@
             {{ if .Get `video` }}
             <video id="paper-img" muted="" loop="" preload="auto" poster="{{ .Get `video` }}-cover.jpg"
                 onmouseover="this.play()" onmouseout="this.pause();this.currentTime = 0;this.load();">
+                <source src="{{ .Get `video` }}-vp9.webm" type="video/webm; codecs=vp9;">
                 <source src="{{ .Get `video` }}-h265.mp4" type="video/mp4; codecs=hevc;">
-                <source src="{{ .Get `video` }}-vp9.mp4" type="video/webm; codecs=vp9;">
                 <source src="{{ .Get `video` }}-h264.mp4" type="video/mp4">
             </video>
             {{ end}}
@@ -27,9 +27,9 @@
             </div>
             {{ end }}
         </div>
-        <p>
+        <div>
             {{ .Inner }}
-        </p>
+        </div>
 
     </div>
 </div>

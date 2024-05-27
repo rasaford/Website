@@ -4,7 +4,7 @@ languageCode = 'en-US'
 defaultContentLanguage = 'en'
 theme = 'lowkey'
 title = 'Maximilian Frühauf'
-enableRobotsTXT = true
+enableRobotsTXT = false
 summaryLength = 15
 paginate = 5
 
