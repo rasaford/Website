@@ -10,7 +10,7 @@ I'm currently interning at [DisneyResearch|Studios](https://studios.disneyresear
 During my Master's Degree in Robotics at [ETH Zurich](https://ethz.ch) I did my thesis on extracting pixel-level details with artist friendly meshes from images.
 Before that, I did my undergraduate degree in Computer Science at [TUM](https://tum.de), where I worked on motion planning for autonomous vehicles.
 
-Additionally, I've tutored students in various lectures, worked on 3D rendering in the advertising industry, and am an [avid road cyclist](fun/cycling.jpg)
+Additionally, I've tutored students in various lectures, worked on 3D rendering in the advertising industry, and am an [avid road cyclist](fun/cycling.jpg).
 
 ____
 
@@ -24,14 +24,16 @@ ____
 >}}
 
 <small>
-<a href="https://cvpr.thecvf.com/virtual/2024/poster/30511">CVPR, Jun 2024</a> <br/>
-<strong>🏆 Highlight Poster</strong>
+    <a href="https://cvpr.thecvf.com/virtual/2024/poster/30511">CVPR, Jun 2024</a><br/>
+    <strong>🏆 Highlight Poster</strong>
 </small>
+
 <div style="margin-top:10px;">
-    {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify.pdf" text="📄 Paper" >}}
-    {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify-supp.pdf" text="📄 Supplementary" >}}
-    {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify.bib" text="🎓 BibTex" >}}
+    {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify.pdf" text="📄Paper" >}}
+    {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify-supp.pdf" text="📄Supplementary" >}}
+    {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify.bib" text="🎓BibTex" >}}
 </div>
+
 <!-- Master's Thesis at <a href="https://studios.disneyresearch.com">DisneyResearch|Studios</a> -->
 {{< /paper >}}
 
@@ -63,7 +65,7 @@ Comes with a very pink web UI 🩷.
 {{< /paper >}}
 
 
-{{< paper   title="Interactive Mandelbrot Visualization"
+{{< paper   title="Massively Parallel Mandelbrot"
             image="projects/mandelbrot/ui.jpg"
             link="https://github.com/eragp/mandelbrot"
             authors=" <a href='.'>Maximilian Frühauf</a>, <a href='https://nielstron.de/'>Niels Mündler</a>, <a href='https://www.ce.cit.tum.de/cps/members/florian-lercher-msc/'>Florian Lercher</a>, Tobias Klausen"
