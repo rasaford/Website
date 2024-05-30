@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Index on Maximilian Frühauf</title>
-    <link>https://maxfruehauf.com/</link>
-    <description>Recent content in Index on Maximilian Frühauf</description>
+    <title>Publications on Maximilian Frühauf</title>
+    <link>https://maxfruehauf.com/publications/</link>
+    <description>Recent content in Publications on Maximilian Frühauf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>2024</copyright><atom:link href="https://maxfruehauf.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2024</copyright><atom:link href="https://maxfruehauf.com/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://maxfruehauf.com/publications/fruehauf2024quadify/drs_project_page/</link>
