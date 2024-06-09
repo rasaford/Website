@@ -30,7 +30,8 @@ ____
 
 <div style="margin-top:10px;">
     {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify.pdf" text="📄Paper" >}}
-    {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify-supp.pdf" text="📄Supplementary" >}}
+    {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify-supp.pdf" text="📄Supp" >}}
+    {{< button link="https://www.youtube.com/watch?v=vOijYA5rZfA" text="🎥Video" >}}
     {{< button link="publications/fruehauf2024quadify/fruehauf2024quadify.bib" text="🎓BibTex" >}}
 </div>
 
